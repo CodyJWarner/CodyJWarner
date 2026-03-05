@@ -26,7 +26,7 @@ Arena-style shooter prototype built in Unreal Engine 5 featuring AI combat, proj
 https://adipted.itch.io/paintballers
 
 🔗 GitHub repository:  
-https://github.com/CodyJWarner/Paintballers-Arena-Shooter
+https://github.com/CodyJWarner/Paintball-Game-Prototype
 
 ---
 
