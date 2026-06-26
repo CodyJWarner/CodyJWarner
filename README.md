@@ -1,10 +1,27 @@
 ## Cody Warner
-I am a Computer Science student focused on IT systems, networking, and software development.  
-Currently building hands-on projects involving Active Directory environments and some small game development projects.
+Computer Science graduate with a passion for information technology, cybersecurity, software development, and video game development. I enjoy exploring new technologies and continuously expanding my knowledge through hands-on projects.
+
+This GitHub serves as a portfolio of my ongoing projects, showcasing my technical growth and the practical experience I gain through building, troubleshooting, and documenting them.
 
 ---
 
 ## Featured Projects
+
+### Virtualization & Linux Homelab
+Built and continue to expand a homelab using Proxmox VE on repurposed hardware. The environment currently includes Ubuntu Server, Docker, Portainer, and Pi-hole while documenting each deployment, configuration change, and troubleshooting step.
+
+- Proxmox VE virtualization
+- Ubuntu Server administration
+- SSH remote management
+- Docker containerization
+- Portainer deployment
+- Pi-hole deployment
+- Static IP configuration
+- Linux & networking troubleshooting
+
+🔗 https://github.com/CodyJWarner/Proxmox-HomeLab
+
+---
 
 ### Active Directory Home Lab
 Simulated a small business Active Directory environment using Windows Server 2022 and a Windows 10 client.
@@ -33,11 +50,15 @@ https://github.com/CodyJWarner/Paintball-Game-Prototype
 ## Skills
 
 **IT / Systems**
-- Active Directory
-- DNS
+- Proxmox VE
 - Windows Server
-- Virtualization (VirtualBox)
-- Windows troubleshooting
+- Active Directory
+- Ubuntu Linux
+- Docker
+- SSH
+- DNS
+- Virtualization
+- Networking Fundamentals
 
 **Programming**
 - Java
